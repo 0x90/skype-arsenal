@@ -1,0 +1,9 @@
+[submodule "sevabot"]
+	path = sevabot
+	url = https://github.com/opensourcehacker/sevabot
+[submodule "OpenSkype"]
+	path = OpenSkype
+	url = https://github.com/matthiasbock/OpenSkype
+[submodule "Skype-iplookup"]
+	path = Skype-iplookup
+	url = https://github.com/zhovner/Skype-iplookup
